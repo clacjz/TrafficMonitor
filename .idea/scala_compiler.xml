@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="TrafficMonitor,TrafficMonitor_MSB,trafficmonitor_msb_2" />
+  </component>
+</project>
